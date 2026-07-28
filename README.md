@@ -1,3 +1,6 @@
+Full details and how signing works can be found here:
+https://www.tenaka.net/post/creating-and-enforcing-a-signed-wdac-policy-with-powershell
+
 Windows Defender Application Control (WDAC) was previously known as DeviceGuard, now it's named App Control for Business. It is one of the strongest application-control technologies available in Windows. From this point forward, it will be referred to as WDAC.
 
 
